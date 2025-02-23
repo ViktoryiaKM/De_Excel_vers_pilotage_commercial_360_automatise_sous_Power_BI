@@ -21,3 +21,6 @@ L'entreprise faisait face à plusieurs problématiques :
 •	Construire des métriques avancées avec le langage DAX (profit, marges, taux de retour, etc.)  
 •	Effectuer une analyse temporelle et une exploration multi-dimensionnelle  
 •	Améliorer l'expérience utilisateur grâce à une personnalisation visuelle avancée sur Power BI.  
+
+✅ **Présentation client**:  
+
