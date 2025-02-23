@@ -11,10 +11,10 @@ L'entreprise faisait face à plusieurs problématiques :
 •	Processus manuel et chronophage sous Excel, source de nombreuses erreurs, risques de sécurité liés au partage de fichiers sensibles par e-mail.  
 
 📊**Avec Power BI, j’ai crée** :  
-•	Un suivi en temps réel des KPI clés (ventes, profit, nombre de clients, commandes, panier moyen)    
-•	Une analyse des tendances mensuelles comparée à l'année précédente  
-•	Des pages interactives offrant une analyse approfondie par catégorie de produit et segment client    
-•	Des fonctionnalités interactives permettant aux utilisateurs de naviguer facilement et de filtrer les données.  
+•	Suivi en temps réel des KPI clés (ventes, profit, nombre de clients, commandes, panier moyen)    
+•	Analyse des tendances mensuelles comparée à l'année précédente  
+•	Pages interactives offrant une analyse approfondie par catégorie de produit et segment client    
+•	Fonctionnalités interactives permettant aux utilisateurs de naviguer facilement et de filtrer les données.  
 
 ⚙️**Ce que j'ai pratiqué** :  
 •	Importer, manipuler et transformer des données issues de sources multiples  
