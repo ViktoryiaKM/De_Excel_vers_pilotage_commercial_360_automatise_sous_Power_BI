@@ -22,5 +22,5 @@ L'entreprise faisait face à plusieurs problématiques :
 •	Effectuer une analyse temporelle et une exploration multi-dimensionnelle  
 •	Améliorer l'expérience utilisateur grâce à une personnalisation visuelle avancée sur Power BI.  
 
-✅ **Présentation client**:  
+✅ **Lien vers le Dashboard**:  
 [Dashboard_Sales%20Analysis.pdf](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dashboard_Sales%20Analysis.pdf)
