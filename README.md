@@ -1,6 +1,6 @@
 # Dashboard_Sales_Analysis
 
-Dans le cadre de ma formation en ligne avec Datacoach, j’ai eu l'opportunité de relever un challenge passionnant : repenser le suivi des ventes pour une entreprise en pleine croissance.  
+Dans le cadre de ma formation en ligne avec DataCoach Academy, j’ai eu l'opportunité de relever un challenge passionnant : repenser le suivi des ventes pour une entreprise en pleine croissance.  
 
 🎯 **Mission**  
 Créer un tableau de bord dynamique et automatisé sous Power BI, capable de centraliser et visualiser les données de vente de manière fluide et efficace.  
