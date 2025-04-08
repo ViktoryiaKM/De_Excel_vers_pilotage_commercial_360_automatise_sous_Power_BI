@@ -22,5 +22,8 @@ L'entreprise faisait face à plusieurs problématiques :
 •	Effectuer une analyse temporelle et une exploration multi-dimensionnelle  
 •	Améliorer l'expérience utilisateur grâce à une personnalisation visuelle avancée sur Power BI.  
 
+**Résultat:**
+Grâce à ce dashboard, l’entreprise dispose désormais d’un outil centralisé, visuel et interactif, qui facilite la prise de décision et élimine les erreurs liées aux fichiers Excel partagés.
+
 ✅ **Lien vers le Dashboard**:  
 [Dashboard_Sales%20Analysis.pdf](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dashboard_Sales%20Analysis.pdf)
