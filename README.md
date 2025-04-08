@@ -27,4 +27,4 @@ Grâce à ce dashboard, l’entreprise dispose désormais d’un outil centralis
 
 ✅ **Lien vers le Dashboard**:  
 [Dashboard_Sales%20Analysis.pdf](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dashboard_Sales%20Analysis.pdf)
-[Dashboard_Sales%20Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dashboard_Sales%20Analysis_gif.gif)
+[Dashboard_Sales_Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dashboard_Sales_Analysis_gif.gif)
