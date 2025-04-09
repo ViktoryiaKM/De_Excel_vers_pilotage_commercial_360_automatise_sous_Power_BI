@@ -10,12 +10,12 @@ L'entreprise faisait face à plusieurs problématiques :
 •	Absence d'une vision globale des indicateurs de performance, ce qui compliquait la prise de décision  
 •	Processus manuel et chronophage sous Excel, source de nombreuses erreurs, risques de sécurité liés au partage de fichiers sensibles par e-mail.  
 
-**Objectifs principaux**:
-•	Suivre les indicateurs clés : chiffre d’affaires, profits, nombre de commandes, panier moyen.
-•	Comparer les performances par année, par produit et par segment client.
-•	Identifier les écarts et tendances pour optimiser les actions commerciales.
+**Objectifs principaux**:  
+•	Suivre les indicateurs clés : chiffre d’affaires, profits, nombre de commandes, panier moyen  
+•	Comparer les performances par année, par produit et par segment client  
+•	Identifier les écarts et tendances pour optimiser les actions commerciales  
 
-⚙️**Ce que j'ai pratiqué** :  
+**Ce que j'ai pratiqué**:  
 •	Importer, manipuler et transformer des données issues de sources multiples  
 •	Construire des métriques avancées avec le langage DAX (profit, marges, taux de retour, etc.)  
 •	Effectuer une analyse temporelle et une exploration multi-dimensionnelle  
