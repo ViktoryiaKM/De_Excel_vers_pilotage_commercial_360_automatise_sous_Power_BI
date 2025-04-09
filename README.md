@@ -1,4 +1,4 @@
-# Optimisation et pilotage des ventes d’une PME
+# Analyse et pilotage des ventes d’une PME
 
 Dans le cadre de ma formation en ligne avec DataCoach Academy, j’ai eu l'opportunité de relever un challenge passionnant : repenser le suivi des ventes pour une entreprise en pleine croissance.  
 
