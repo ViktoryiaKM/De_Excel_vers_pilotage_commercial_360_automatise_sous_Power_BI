@@ -1,20 +1,19 @@
 # Analyse et pilotage des ventes d’une PME
 
-Dans le cadre de ma formation en ligne avec DataCoach Academy, j’ai eu l'opportunité de relever un challenge passionnant : repenser le suivi des ventes pour une entreprise en pleine croissance.  
+*Dans le cadre de ma formation en ligne avec DataCoach Academy, j’ai eu l'opportunité de relever un challenge passionnant : repenser le suivi des ventes pour une entreprise en pleine croissance.*  
 
-🎯 **Mission**  
+**Mission**  
 Création d’un tableau de bord Power BI pour suivre les indicateurs clés, analyser les tendances par produit/client et identifier des leviers de croissance.  
 
-🔎**Contexte**  
+**Contexte**  
 L'entreprise faisait face à plusieurs problématiques :  
 •	Absence d'une vision globale des indicateurs de performance, ce qui compliquait la prise de décision  
 •	Processus manuel et chronophage sous Excel, source de nombreuses erreurs, risques de sécurité liés au partage de fichiers sensibles par e-mail.  
 
-📊**Avec Power BI, j’ai crée** :  
-•	Suivi en temps réel des KPI clés (ventes, profit, nombre de clients, commandes, panier moyen)    
-•	Analyse des tendances mensuelles comparée à l'année précédente  
-•	Pages interactives offrant une analyse approfondie par catégorie de produit et segment client    
-•	Fonctionnalités interactives permettant aux utilisateurs de naviguer facilement et de filtrer les données.  
+**Objectifs principaux**:
+•	Suivre les indicateurs clés : chiffre d’affaires, profits, nombre de commandes, panier moyen.
+•	Comparer les performances par année, par produit et par segment client.
+•	Identifier les écarts et tendances pour optimiser les actions commerciales.
 
 ⚙️**Ce que j'ai pratiqué** :  
 •	Importer, manipuler et transformer des données issues de sources multiples  
@@ -22,7 +21,9 @@ L'entreprise faisait face à plusieurs problématiques :
 •	Effectuer une analyse temporelle et une exploration multi-dimensionnelle  
 •	Améliorer l'expérience utilisateur grâce à une personnalisation visuelle avancée sur Power BI.  
 
-**Résultat:**
+**Outil utilisé** : Power BI
+
+**🎯 Résultat:**
 Grâce à ce dashboard, l’entreprise dispose désormais d’un outil centralisé, visuel et interactif, qui facilite la prise de décision et élimine les erreurs liées aux fichiers Excel partagés.
 
 ✅ **Lien vers le Dashboard**:  
