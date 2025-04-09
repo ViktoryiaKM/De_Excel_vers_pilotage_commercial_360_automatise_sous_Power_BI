@@ -1,9 +1,9 @@
-# Dashboard_Sales_Analysis
+# Optimisation et pilotage des ventes d’une PME - Dashboard interactif Power BI
 
 Dans le cadre de ma formation en ligne avec DataCoach Academy, j’ai eu l'opportunité de relever un challenge passionnant : repenser le suivi des ventes pour une entreprise en pleine croissance.  
 
 🎯 **Mission**  
-Créer un tableau de bord dynamique et automatisé sous Power BI, capable de centraliser et visualiser les données de vente de manière fluide et efficace.  
+Création d’un tableau de bord Power BI pour suivre les indicateurs clés, analyser les tendances par produit/client et identifier des leviers de croissance.  
 
 🔎**Contexte**  
 L'entreprise faisait face à plusieurs problématiques :  
