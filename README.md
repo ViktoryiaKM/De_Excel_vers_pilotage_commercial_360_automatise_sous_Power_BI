@@ -2,10 +2,10 @@
 
 *Dans le cadre de ma formation en ligne avec DataCoach Academy, j’ai eu l'opportunité de relever un challenge passionnant : repenser le suivi des ventes pour une entreprise en pleine croissance.*  
 
-**Problématique :**
+**Problématique :**  
 L’entreprise ne disposait pas d’un outil centralisé, ni d’une vision globale sur les indicateurs de performance commerciale. Les reportings Excel, manuels et dispersés, ralentissaient la prise de décision et généraient erreurs et risques liés au partage de fichiers sensibles par email.
 
-**Enjeu :**
+**Enjeu :** 
 Fournir aux décideurs un tableau de bord stratégique orienté KPI pour suivre les ventes, marges, commandes et comportements clients, avec un accès centralisé, fiable et interactif.
 
 **Solution mise en place :**  
