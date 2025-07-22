@@ -8,18 +8,18 @@ L’entreprise ne disposait pas d’un outil centralisé, ni d’une vision glob
 **Enjeu :**
 Fournir aux décideurs un tableau de bord stratégique orienté KPI pour suivre les ventes, marges, commandes et comportements clients, avec un accès centralisé, fiable et interactif.
 
-**Solution mise en place :**
-• Conception d’un dashboard Power BI connecté aux données de vente
- • KPIs clés construits en DAX : CA, marge, panier moyen, taux de retours, nb de commandes
- • Analyse des tendances par mois et comparaison avec N-1
- • Pages interactives par catégorie de produit et segment client pour identifier les tendances et les écarts
- • Visualisations claires avec filtres dynamiques pour faciliter l’exploration des données
+**Solution mise en place :**  
+ • Conception d’un dashboard Power BI connecté aux données de vente  
+ • KPIs clés construits en DAX : CA, marge, panier moyen, taux de retours, nb de commandes  
+ • Analyse des tendances par mois et comparaison avec N-1  
+ • Pages interactives par catégorie de produit et segment client pour identifier les tendances et les écarts  
+ • Visualisations claires avec filtres dynamiques pour faciliter l’exploration des données  
 
  **Résultat & impact :**
-✔️ Centralisation des données → gain de temps significatif et suppression des rapports Excel manuels
-✔️ Amélioration du pilotage commercial grâce à des KPIs visuels et fiables
-✔️ Meilleure compréhension des comportements clients et des performances commerciales
-✔️ Prise de décision plus rapide et plus précise au niveau stratégique
+✔️ Centralisation des données → gain de temps significatif et suppression des rapports Excel manuels  
+✔️ Amélioration du pilotage commercial grâce à des KPIs visuels et fiables  
+✔️ Meilleure compréhension des comportements clients et des performances commerciales  
+✔️ Prise de décision plus rapide et plus précise au niveau stratégique  
 
 **Environnement technique :** 
 Power BI Desktop - DAX, Power Query, Fichiers Excel (.xls) et (.csv) connectés, Power BI Service
