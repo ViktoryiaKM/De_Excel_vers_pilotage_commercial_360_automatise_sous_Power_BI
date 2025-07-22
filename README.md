@@ -15,7 +15,7 @@ Fournir aux décideurs un tableau de bord stratégique orienté KPI pour suivre 
  • Pages interactives par catégorie de produit et segment client pour identifier les tendances et les écarts  
  • Visualisations claires avec filtres dynamiques pour faciliter l’exploration des données  
 
- **Résultat & impact :**
+ **Résultat & impact :**  
 ✔️ Centralisation des données → gain de temps significatif et suppression des rapports Excel manuels  
 ✔️ Amélioration du pilotage commercial grâce à des KPIs visuels et fiables  
 ✔️ Meilleure compréhension des comportements clients et des performances commerciales  
