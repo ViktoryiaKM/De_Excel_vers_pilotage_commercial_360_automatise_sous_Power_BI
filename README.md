@@ -1,4 +1,4 @@
-# De reportings Excel dispersés à un pilotage commercial automatisé sous Power BI
+# De reportings Excel dispersés à un pilotage commercial 360° automatisé sous Power BI
 
 *Dans le cadre de ma formation en ligne avec DataCoach Academy, j’ai eu l'opportunité de relever un challenge passionnant : repenser le suivi des ventes pour une entreprise en pleine croissance.*  
 
