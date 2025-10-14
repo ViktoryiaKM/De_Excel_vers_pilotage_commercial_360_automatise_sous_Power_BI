@@ -9,11 +9,11 @@ L’entreprise gérait ses données commerciales sous Excel, sans système centr
 Fournir aux décideurs une solution BI fiable, automatisée et sécurisée, garantissant une lecture cohérente des KPIs commerciaux et un accès centralisé et interactif aux informations stratégiques.
 
 **Solution mise en place :**  
- • Conception d’un dashboard Power BI connecté à des sources multiples (.xls, .zip, .csv)
- • Modélisation des données selon un schéma en étoile pour une meilleure performance et maintenabilité
- • Conception de KPIs DAX métier : CA, marge, panier moyen, taux de retour, volume de commandes
- • Analyse temporelle (tendances mensuelles, comparaison N/N-1)
- • Pages interactives par catégorie de produit et segment client pour identifier les tendances et les écarts
+ • Conception d’un dashboard Power BI connecté à des sources multiples (.xls, .zip, .csv)  
+ • Modélisation des données selon un schéma en étoile pour une meilleure performance et maintenabilité  
+ • Conception de KPIs DAX métier : CA, marge, panier moyen, taux de retour, volume de commandes  
+ • Analyse temporelle (tendances mensuelles, comparaison N/N-1)  
+ • Pages interactives par catégorie de produit et segment client pour identifier les tendances et les écarts  
  • Automatisation de la mise à jour via Power BI Service  
 
  **Résultat & impact :**  
@@ -29,4 +29,5 @@ Power BI Desktop - DAX, Power Query, Modélisation en étoile,  Fichiers CSV & Z
 
 ✅ **Lien vers le Dashboard**:  
 
-[Dasheboard_Sales_Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dasheboard_Sales_Analysis_gif.gif)
+[Dasheboard_Sales_Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dasheboard_Sales_Analysis_gif.gif)  
+[Dasheboard_Sales_Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Modelisation_données_Schema_en_etoile.jpg)
