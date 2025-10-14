@@ -17,11 +17,11 @@ Fournir aux décideurs une solution BI fiable, automatisée et sécurisée, gara
  • Automatisation de la mise à jour via Power BI Service  
 
  **Résultat & impact :**  
-✔️ Centralisation et fiabilisation des données → suppression des rapports Excel manuels
-✔️ Réduction de 70 % du temps de reporting → mise à jour automatique et instantanée
-✔️ Vision décisionnelle consolidée pour le management, facilitant la réactivité commerciale et stratégique
-✔️ Meilleure compréhension des comportements clients et des performances commerciales
-✔️ Prise de décision plus rapide et plus précise au niveau stratégique  
+✔️ Centralisation et fiabilisation des données → suppression des rapports Excel manuels  
+✔️ Réduction de 70 % du temps de reporting → mise à jour automatique et instantanée  
+✔️ Vision décisionnelle consolidée pour le management, facilitant la réactivité commerciale et stratégique  
+✔️ Meilleure compréhension des comportements clients et des performances commerciales  
+✔️ Prise de décision plus rapide et plus précise au niveau stratégique   
 
 **Environnement technique :** 
 Power BI Desktop - DAX, Power Query, Modélisation en étoile,  Fichiers CSV & ZIP connectés, Power BI Service
@@ -30,4 +30,4 @@ Power BI Desktop - DAX, Power Query, Modélisation en étoile,  Fichiers CSV & Z
 ✅ **Lien vers le Dashboard**:  
 
 [Dasheboard_Sales_Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dasheboard_Sales_Analysis_gif.gif)  
-[Dasheboard_Sales_Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Modelisation_données_Schema_en_etoile.jpg)
+[Modelisation_données_Schema_en_etoile.jpg](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Modelisation_données_Schema_en_etoile.jpg)
