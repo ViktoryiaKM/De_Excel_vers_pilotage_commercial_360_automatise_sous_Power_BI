@@ -29,5 +29,5 @@ Power BI Desktop - DAX, Power Query, Modélisation en étoile,  Fichiers CSV & Z
 
 ✅ **Lien vers le Dashboard**:  
 
-[Dasheboard_Sales_Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dasheboard_Sales_Analysis_gif.gif)  
+[Dasheboard_Sales_Analysis_gif.gif](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Dasheboard_Sales_Analysis_gif2.gif)  
 [Modelisation_données_Schema_en_etoile.jpg](https://github.com/ViktoryiaKM/Dashboard_Sales_Analysis_using_PowerBI/blob/main/Modelisation_données_Schema_en_etoile.jpg)
